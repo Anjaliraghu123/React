@@ -1,7 +1,8 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import App from ".s/rc/App";
-import  ".src/One.css";
+import App from "./Todo List/App";
+
+
 
 // Render the root component (App) into the DOM
 ReactDOM.render(
